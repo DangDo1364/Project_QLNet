@@ -3,3 +3,4 @@
 ## Quản lý khách hàng, quản lý máy trạm, quản lý nhân viên, thống kê dịch vụ,....
 ## Công nghệ sử dụng: 
 ### JAVA
+### Điểm : 9/10
